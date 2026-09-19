@@ -111,6 +111,7 @@
 
 <p align="center">
   <a href="https://github.com/gofish040821"><img src="https://img.shields.io/badge/GitHub-gofish040821-191919?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:gofish0821@gmail.com"><img src="https://img.shields.io/badge/Email-gofish0821@gmail.com-D97757?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
