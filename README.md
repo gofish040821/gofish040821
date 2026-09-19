@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img src="assets/hero.svg" alt="Gofish — Mathematics · AI · Agent RSI · Physical AI" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner.svg" alt="Gofish — Mathematics · AI · Agent RSI · Physical AI" width="100%" />
 </picture>
 
 <p align="center">
