@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Gofish — Mathematics, AI, Agent RSI, Physical AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#262624"/>
+      <stop offset="1" stop-color="#191919"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="340" rx="30" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="29" fill="none" stroke="#2A2926" stroke-width="2"/>
+
+  <!-- Claude-style asterisk mark -->
+  <g stroke="#D97757" stroke-width="7" stroke-linecap="round">
+    <line x1="570" y1="58" x2="630" y2="58"/>
+    <line x1="600" y1="28" x2="600" y2="88"/>
+    <line x1="579" y1="37" x2="621" y2="79"/>
+    <line x1="621" y1="37" x2="579" y2="79"/>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="178" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'STSong', 'Songti SC', 'Noto Serif SC', 'SimSun', serif" font-size="92" font-weight="700" fill="#F5F4EF">Gofish</text>
+
+  <!-- eyebrow -->
+  <text x="600" y="216" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'STSong', 'Songti SC', 'Noto Serif SC', 'SimSun', serif" font-size="18" letter-spacing="4" fill="#D97757">MATHEMATICS · AI · AGENT RSI · PHYSICAL AI</text>
+
+  <!-- subtitle -->
+  <text x="600" y="252" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'STSong', 'Songti SC', 'Noto Serif SC', 'SimSun', serif" font-size="16" fill="#9B978F">曾一铭 · 22 · 大连理工大学 数理基础科学 → 南方科技大学 数学</text>
+</svg>
