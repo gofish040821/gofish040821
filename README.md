@@ -111,10 +111,7 @@
 
 <p align="center">
   <a href="https://github.com/gofish040821"><img src="https://img.shields.io/badge/GitHub-gofish040821-191919?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-改成你的邮箱-D97757?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!-- 上面的 `you@example.com` 记得替换成你的真实邮箱 -->
 
 <p align="center">
   <sub>© 2026 Gofish · 用 ✳ 打造 · Claude 配色</sub>
