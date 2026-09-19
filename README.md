@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/gofish040821"><img src="https://img.shields.io/badge/Gofish-曾一铭-D97757?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/gofish040821"><img src="https://img.shields.io/badge/-Gofish-D97757?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Mathematics-数理基础科学-191919?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Agent_RSI-递归自我改进-D97757?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Physical_AI-具身智能-191919?style=for-the-badge" /></a>
@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="200"><img src="assets/avatar.png" width="170" alt="Gofish 头像" /></td>
     <td>
-      你好，我是 <b>Gofish</b>（曾一铭 / Zeng Yiming），22 岁。<br/><br/>
+      你好，我是 <b>Gofish</b>，22 岁。<br/><br/>
       本科在大连理工大学读「数理基础科学」，现在南方科技大学攻读「数学」硕士。
       我的兴趣在数学与人工智能的交汇处，主要关注 <b>Agent RSI（递归自我改进）</b> 与 <b>Physical AI（物理智能）</b>。<br/><br/>
       我相信严谨的数学能为智能体系统提供可靠的地基，也在尝试把抽象的理论写成能真正跑起来的代码。
