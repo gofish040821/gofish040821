@@ -191,7 +191,8 @@ function block(code, meta, open) {
 }
 
 const langs = i18n.languages;
-const order = ['en', 'zh', 'fr', 'de', 'es', 'ar', 'ja', 'ko', 'ru'].filter(function (c) {
+// 只保留中英两种语言；英文排第一，也就是默认展开的那个。
+const order = ['en', 'zh'].filter(function (c) {
   return langs.some(function (l) { return l.code === c; });
 });
 const byCode = {};
